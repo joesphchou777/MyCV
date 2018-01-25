@@ -3,17 +3,17 @@
   uni: National Chung Hsing University
   year: 2016 &mdash; present
   awards: Research Interests
-    - award: Risk Assessment
-    - award: Project Evaluation
-    - award: Portfolio Management
-    - award: Patent Evaluation
-    - award: Quantitative Research
-- degree: Bachelor Degree, Business Administration
-  uni: Yuan Ze University
-  year: 2012 &mdash; 2016
-  award: Relevant Courses
-    - award: Information Technology and Computing Finance
-    - award: Financial Statement Analysis
-    - award: Investment
-    - award: Corporate Finance
+    award: Risk Assessment
+    award: Project Evaluation
+    award: Portfolio Management
+    award: Patent Evaluation
+    award: Quantitative Research
+#- degree: Bachelor Degree, Business Administration
+#  uni: Yuan Ze University
+#  year: 2012 &mdash; 2016
+#  award: Relevant Courses
+#    - award: Information Technology and Computing Finance
+#    - award: Financial Statement Analysis
+#    - award: Investment
+#    - award: Corporate Finance
   #summary: You can choose to have either a single or multiple awards
