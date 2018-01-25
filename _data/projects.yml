@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Portland International Center for Management of Engineering and Technology
+  role: First Author & Presented at International Conference in Portland, US
+  duration: July 9, 2017 &mdash; July 13, 2017 
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: Chou, Y.T., Su, H.N.*, “How Do Patents' Intrinsic Properties Associate with Litigation?” 
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+
+- project: Portland International Center for Management of Engineering and Technology
+  role: First Author & Presented at International Conference in Portland, US
+  duration: July 9, 2017 &mdash; July 13, 2017 
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: Chou, Y.T., Su, H.N.*, “Exploring Research Focus Association in Digital Humanities”  
