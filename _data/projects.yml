@@ -2,8 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: 1 first author, 2 conference presentation; 1 first author manuscript under review (refereed). 
-  role: First Author & Presented at International Conference in Portland, US
+- project: 1 first author, 2 conference presentation. 
+  role: Presented at International Conference in Portland, US
   duration: July 9, 2017 &mdash; July 13, 2017 
   # url: "#"
   description: Organizer &mdash; Portland International Center for Management of Engineering and Technology
+
+
+- project: 1 first author manuscript under review (refereed). 
+  #role: 
+  #duration: 
+  # url: "#"
+  #description: 
